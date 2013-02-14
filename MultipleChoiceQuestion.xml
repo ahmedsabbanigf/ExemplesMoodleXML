@@ -26,18 +26,6 @@
 			<text>Ooops!</text>
 		</feedback>
 	</answer>
-	<answer fraction="0">
-		<text>Abbes</text>
-		<feedback>
-			<text>OK</text>
-		</feedback>
-	</answer>
-	<answer fraction="0">
-		<text>Abbes2</text>
-		<feedback>
-			<text>OK</text>
-		</feedback>
-	</answer>
 	<shuffleanswers>1</shuffleanswers>
 	<single>true</single>
 </question>
